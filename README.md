@@ -1,5 +1,12 @@
 # Cross-Asset Systematic Trading & P&L Dashboard (Python)
 
+**[▶ Launch the interactive Streamlit demo](https://cross-asset-systematic-trading-pnl-5fcjbkwipvcz7fz4jg6nfx.streamlit.app)** — try the dashboard in your browser, no Python installation needed.
+
+**Explore:** [Python source](src/) · [Streamlit app code](app.py) · [Unit tests](tests/) · [Chart preview](assets/strategy-pnl-preview.png) · [Run instructions](#run)
+
+*The default example uses synthetic inputs; this is educational research, not live trading or an investment recommendation.*
+
+
 **Four-asset systematic research**: momentum and reversal signals; strict one-day lag; per-asset / aggregate gross exposure limits; diagonal realized-vol proxy target; turnover-based costs; performance, drawdown and gross asset P&L contribution analysis.
 
 ![Illustrative research preview](assets/strategy-pnl-preview.png)
