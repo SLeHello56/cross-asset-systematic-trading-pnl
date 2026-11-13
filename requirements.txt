@@ -1,0 +1,3 @@
+# Streamlit Community Cloud: install this repository and its declared dependencies.
+# The project package lives in src/, so editable installation is required.
+-e .
